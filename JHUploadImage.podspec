@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "JHUploadImage"
-  s.version      = "1.0.2"
+  s.version      = "1.0.3"
   s.summary      = "头像选择"
 
   # This description is used to generate tags and improve search results.
