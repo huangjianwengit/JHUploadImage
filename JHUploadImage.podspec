@@ -16,8 +16,8 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "JHUploadImage"
-  s.version      = "1.0.1"
-  s.summary      = "A short description of JHUploadImage."
+  s.version      = "1.0.2"
+  s.summary      = "头像选择"
 
   # This description is used to generate tags and improve search results.
   #   * Think: What does it do? Why did you write it? What is the focus?
@@ -80,7 +80,7 @@ Pod::Spec.new do |s|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  s.source       = { :git => "https://github.com/huangjianwengit/JHUploadImage.git", :tag => "1.1.0" }
+  s.source       = { :git => "https://github.com/huangjianwengit/JHUploadImage.git", :tag => "v#{s.version}" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
